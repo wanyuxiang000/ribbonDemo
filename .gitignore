@@ -1,0 +1,8 @@
+*.class
+.idea/*
+/.idea/
+.gitignore
+microservice-consumer-movie-ribbon/target/
+microservice-discovery-eureka/target/
+microservice-provider-user/target/
+*.iml

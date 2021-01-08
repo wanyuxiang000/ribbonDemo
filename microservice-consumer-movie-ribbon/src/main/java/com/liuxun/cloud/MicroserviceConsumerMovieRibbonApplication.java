@@ -1,6 +1,5 @@
 package com.liuxun.cloud;
 
-import com.liuxun.config.TestConfiguration;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
